@@ -1,0 +1,6 @@
+{
+  "openai_api_key": "YOUR_OPENAI_API_KEY",
+  "google_api_key": "YOUR_GOOGLE_API_KEY",
+  "search_engine_id": "YOUR_SEARCH_ENGINE_ID",
+  "memory_limit": 10
+}
